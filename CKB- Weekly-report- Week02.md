@@ -37,7 +37,7 @@
 - After removing the comment, the miner worked as expected.
 - This debugging experience helped me understand that if you want the miner to **pick up and execute a specific transaction**, you often need to **assign it a higher fee**—otherwise, it may remain unprocessed in the pool.
 
-## 🎯  for Next Week
+## Gols for Next Week
 
 - Complete the **L1 Developer Training Course**.
 - Construct and successfully send my **first custom CKB transaction** from scratch.
