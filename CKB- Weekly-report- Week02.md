@@ -7,12 +7,13 @@
 - Examined transactions, determined, and validated the out points.
 - Continued the course "L1 Developer Kit" up to the **"Introduction to Capsule"** section (I skipped the Lumos programming parts).
 
-### Second Transaction Screenshot
-![Transaction Screenshot 2](./Bildschirmfoto%202025-07-05%20um%2016.56.43.png)
- yyyy
-
-![Storing Data](./Storing_Data.png)
-xxxx
-![Validating_OutPoints](./Validating_OutPoints.png)
-www
+### Verifying Data with Hash
 ![Verifying_Data-with_Hash](./Verifying_Data-with_Hash.png)
+### Verifying Data with Hash
+![Storing Data](./Storing_Data.png)
+
+![Transaction Screenshot 2](./Bildschirmfoto%202025-07-05%20um%2016.56.43.png)
+### Validating OutPoints
+![Validating_OutPoints](./Validating_OutPoints.png)
+
+
