@@ -21,3 +21,5 @@
   - Successfully send a transaction on the local dev chain.
   - Complete Module 3 and 4.
   - Learn how to write and deploy a custom lock script.
+![Alt text](./images/Storing_Data.png)
+
