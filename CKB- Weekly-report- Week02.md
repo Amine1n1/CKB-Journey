@@ -7,7 +7,7 @@
 - Examined transactions, determined, and validated the out points.
 - Continued the course "L1 Developer Kit" up to the **"Introduction to Capsule"** section (I skipped the Lumos programming parts).
 
-### 🧾 Transaction Details from `ckb-cli` – 100,000 CKBytes Transfer
+### Transaction Details from `ckb-cli` – 100,000 CKBytes Transfer
 ![Transaction Screenshot 2](./Bildschirmfoto%202025-07-05%20um%2016.56.43.png)
 
 ### Verifying File Hash and Live Cell Data with `blake2b` and `ckb-cli`
