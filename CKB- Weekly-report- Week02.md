@@ -1,24 +1,14 @@
 # Week 02 Report – GADDAH Amine – June 30–July 6, 2025
 
 ## What I Did
-- Completed Module 1 and Module 2 of the CKB Builder learning path.
-- Sent a **manual transaction** on the CKB testnet.  
-  🔗 [View transaction](#)
-- Initialized the **CKB dev blockchain** locally and attempted to run basic test transactions.
 
-## What I Learned
-- How to construct a transaction manually using `ckb-cli`.
-- The structure of Nervos transactions: inputs, outputs, capacity, and lock scripts.
-- A basic understanding of how the dev chain works.
+- Installed all necessary tools and dependencies for running the CKB dev chain and working with `ckb-cli`.
+- Successfully sent a basic transaction and transferred **100,000 CKBytes**.
+- Examined transactions, determined, and validated the out points.
+- Continued the course "L1 Developer Kit" up to the **"Introduction to Capsule"** section (I skipped the Lumos programming parts).
 
-## Challenges I Faced
-- I haven’t succeeded yet in sending a transaction on the **local dev chain**.
-- Faced setup/configuration issues when working with `ckb run`.
-- Spent time troubleshooting capacity limits and transaction format issues.
+![Basic Transaction Screenshot](./Bildschirmfoto 2025-07-05 um 16.56.43.png)
 
-## 🎯 Goals for Next Week
-- [Write your goals here... for example:]
-  - Successfully send a transaction on the local dev chain.
-  - Complete Module 3 and 4.
-  - Learn how to write and deploy a custom lock script.
 ![Storing Data](./Storing_Data.png)
+![Validating_OutPoints](./Validating_OutPoints.png)
+![Verifying_Data-with_Hash](./Verifying_Data-with_Hash.png)
