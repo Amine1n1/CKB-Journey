@@ -18,3 +18,26 @@
 
 ### Sending a Transaction with File Attachment Using `wallet transfer`
 ![Storing Data](./Storing_Data.png)
+
+## What I Learned
+
+- The **out point** of a previous output is defined by a combination of the transaction hash and the output index.
+- Each **node** on the Nervos network stores a **complete copy of the blockchain**, ensuring transparency and data consistency.
+- A **cell's minimum size** is **61 bytes**, which includes mandatory fields such as capacity, lock, and optional data.
+- Nervos is a **transaction-oriented blockchain**—we don’t invoke functions or methods like in Ethereum. Instead, we rely on transaction structure and scripting.
+- Transactions are validated through **lock scripts** and, optionally, **type scripts**:
+  - **Lock scripts** are executed in the **inputs** to verify spending rights.
+  - **Type scripts** (optional) are executed on both **inputs and outputs** for additional validation logic.
+- The **Blake2b** tool is used to generate hashes (e.g., for file data or arguments), which are often required in scripts or transaction construction.
+- Much of the logic (script generation, validation setup) happens **off-chain** before the transaction is submitted to the chain.
+## Challenges I Faced
+
+- I initially failed to run the miner due to a misconfiguration in the `ckb.toml` file.
+- The issue was caused by a **comment left in the `[block_assembler]` section**, which prevented the miner from starting.
+- After removing the comment, the miner worked as expected.
+- This debugging experience helped me understand that if you want the miner to **pick up and execute a specific transaction**, you often need to **assign it a higher fee**—otherwise, it may remain unprocessed in the pool.
+
+## 🎯  for Next Week
+
+- Complete the **L1 Developer Training Course**.
+- Construct and successfully send my **first custom CKB transaction** from scratch.
