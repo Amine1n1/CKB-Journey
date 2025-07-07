@@ -28,6 +28,9 @@
 - Transactions are validated through **lock scripts** and, optionally, **type scripts**:
   - **Lock scripts** are executed in the **inputs** to verify spending rights.
   - **Type scripts** (optional) are executed on both **inputs and outputs** for additional validation logic.
+- The main difference between a **lock script** and a **type script** is their purpose:
+  - A **lock script** is used to verify **ownership**—it ensures that only the rightful owner can unlock and spend a cell (similar to a private key check).
+  - A **type script** is used to enforce **logic or rules** on how a cell can be used—this is often used in applications like token standards or smart contract validation.
 - The **Blake2b** tool is used to generate hashes (e.g., for file data or arguments), which are often required in scripts or transaction construction.
 - Much of the logic (script generation, validation setup) happens **off-chain** before the transaction is submitted to the chain.
 ## Challenges I Faced
