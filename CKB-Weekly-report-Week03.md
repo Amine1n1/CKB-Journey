@@ -8,19 +8,19 @@
 
 
 ### LAB1 (Convert IC3Type to OC5Type) Execution Output  
-![LAB1 Execution](images/OC5Type_Ex.png)
+![LAB1 Execution](./OC5Type_Ex.png)
 
 ### LAB2 (Convert DataCap to DataRange) Execution Output
-![LAB2 Execution](images/DataRange_Ex.png)
+![LAB2 Execution](./DataRange_Ex.png)
 
 ### LAB3 (Convert the Counter to a Double Counter) Execution Output
 ![LAB3 Execution](images/DoubleCounter_Ex.png)
 
 ### LAB4 (Convert the Double Counter to an Aggregatable Double Counter) Execution Output
-![LAB4 Execution](images/AggDoubleCounter_Ex.png)
+![LAB4 Execution](./AggDoubleCounter_Ex.png)
 
 ### LAB5 (Add Operation Detection to the Double Counter) Execution Output
-![LAB5 Execution](images/ODDoubleCounter_Ex.png)
+![LAB5 Execution](./ODDoubleCounter_Ex.png)
 
 ## What I Learned
 
