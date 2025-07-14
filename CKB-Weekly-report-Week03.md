@@ -14,7 +14,7 @@
 ![LAB2 Execution](./DataRange_Ex.png)
 
 ### LAB3 (Convert the Counter to a Double Counter) Execution Output
-![LAB3 Execution](images/DoubleCounter_Ex.png)
+![LAB3 Execution](./DoubleCounter_Ex.png)
 
 ### LAB4 (Convert the Double Counter to an Aggregatable Double Counter) Execution Output
 ![LAB4 Execution](./AggDoubleCounter_Ex.png)
@@ -30,8 +30,6 @@
 - Improved my understanding of numerical conversions (e.g., Base64, Base128) through labs.
 - Gained a better grasp of ownership concepts in Rust by working through hands-on examples.
 - Built experience in handling and troubleshooting errors while testing capsules.
-
-## Challenges I Faced
 
 ## Challenges I Faced
 
