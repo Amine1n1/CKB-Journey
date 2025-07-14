@@ -14,7 +14,7 @@
 ![LAB2 Execution](./DataRange_Ex.png)
 
 ### LAB3 (Convert the Counter to a Double Counter) Execution Output
-![LAB3 Execution](./DoubleCounter_Ex.png)
+![LAB3 Execution](./DoubleCounter_EX.png)
 
 ### LAB4 (Convert the Double Counter to an Aggregatable Double Counter) Execution Output
 ![LAB4 Execution](./AggDoubleCounter_Ex.png)
