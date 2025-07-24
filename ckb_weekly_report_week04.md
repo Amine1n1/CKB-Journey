@@ -1,4 +1,4 @@
-# Week 04 Report – SENNARIA Imane –July 14-20, 2025
+# Week 04 Report – GADDAH Amine –July 14-20, 2025
 
 ## What I Did
 
