@@ -4,8 +4,8 @@
 
 I completed the NFT Starter Course module as well as the Dapps with CKB Networks module. 
 
-### Generate Key Pair Execution Output  
-![LGenerate Key Pair](./Private_Key.png)
+### NFT Course completion  
+![NFT Course completion](./NFT_Course.png)
 
 ### What I Learned
 
