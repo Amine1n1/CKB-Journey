@@ -26,4 +26,4 @@ I completed the NFT Starter Course module as well as the Dapps with CKB Networks
 
 ## Challenges I Faced
 
-- Installed **CKB Studio**, only to find out it's **deprecated**, which limited its usefulness for the Dapps module.
+- Installed **CKB Studio**, only to find out it's **deprecated**.
