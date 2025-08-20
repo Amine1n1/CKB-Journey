@@ -2,10 +2,10 @@
 
 ## What I Did
 
--Starting with offCKB environement
+Setting Up the offCKB Environment
 
-### Run Of CKB Node 
-![OffCKB_Node](./OffCKB_Node_1.png)
+### Running the CKB Node
+![CKB Node Screenshot](./OffCKB_Node_1.png)
 
 ### Run Devnet offckb  
 ![Run DEV](./Run_DEV_2.png)
