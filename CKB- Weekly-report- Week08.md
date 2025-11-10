@@ -1,4 +1,4 @@
-# Week 08 Report – SENNARIA IMANE – November 03–09, 2025
+# Week 08 Report – Amine GADDAH – November 03–09, 2025
 
 ## What I Did
 
@@ -21,8 +21,7 @@
 
 ## Challenges I Faced
 
-
-
+-  I wanted to run the same test using Off-CKB instead of Capsule, but ran into difficulties because it requires a solid understanding of TypeScript or JavaScript; languages i have'nt used befor.
 
 ## Important Files
 
@@ -30,8 +29,11 @@
 - [`tests.rs`](./tests.rs)  
 
 ## Results
+Build_Contract
 ![Build_Contract](./Build_Contract.png)
+Create_Project
 ![Create_Project](./Create_Project.png)
+Test_Contract
 ![test_Contract](./Test_Contract.png)
 This was a basic example that we worked on, but the main purpose was to understand the underlying concepts and structure of what we’re doing.
 ## Goals for Next Week
