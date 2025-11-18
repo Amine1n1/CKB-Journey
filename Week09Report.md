@@ -17,7 +17,7 @@
 ##  Important Files
 - [`index.js`](./index.js)
 - [`Test1.mock.test.js`](./Test1.mock.test.js)
--  [`index.js`](./index_(1).js)
+-  [`index.js`](./index (1).js)
 - [`Test1.mock.test.js`](./Test1.mock.test.js)
 
 ##  Results
