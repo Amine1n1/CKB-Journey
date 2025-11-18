@@ -13,13 +13,11 @@
 - Revisited the entire process (build → deploy → test) using JavaScript.
 - Gained a clearer understanding of how the **off-chain workflow** works with OFFCKB.
 
-##  Challenges I Faced
-- **Error:** I forgot to run the node, which caused the tests to fail.  
-  ![Error](./WEEK09-ERROR.png)
-
 
 ##  Important Files
 - [`index.js`](./index.js)
+- [`Test1.mock.test.js`](./Test1.mock.test.js)
+-  [`index.js`](./index_(1).js)
 - [`Test1.mock.test.js`](./Test1.mock.test.js)
 
 ##  Results
