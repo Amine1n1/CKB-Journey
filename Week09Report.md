@@ -16,17 +16,19 @@
 
 ##  Important Files
 - [`index.js`](./index.js)
-- [`Test1.mock.test.js`](./Test1.mock.test.js)
--  [`index.js`](./index (1).js)
-- [`Test1.mock.test.js`](./Test1.mock.test.js)
+- [`my-first-contract.mock.test.js`](./my-first-contract.mock.test.js)
+- [`index2.js`](./index2.js)
+- [`counter.mock.test.js`](./counter.mock.test.js)
 
 ##  Results
 
-![Building](./WEEK09-ContractBuild.png)
+![Building](./W09-BuildContract.png)
 
-![Deployment](./WEEK09-Deployement.png)
+![Deployment](./W09-DeployContract.png)
 Tests ran successfully:
-![TestResults](./WEEK09-Test.png)
+![TestResults](./W09-TestContract.png)
+![TestResults](./W09-InkrementInputTest.png)
+
 
 This was a **basic example**, similar to Week 08, but the main purpose was to redo the workflow using **JavaScript**.
 
