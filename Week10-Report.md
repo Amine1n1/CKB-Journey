@@ -3,39 +3,35 @@
 
 ##  What I Did
 
-### 1. Built my JavaScript smart contract (`testCCC`)
+### 1. Built my JavaScript smart contract (`my-first-contract`)
 I successfully bundled and compiled my TypeScript/JavaScript contract using **esbuild**, generating the `.bc` bytecode file.
 
 ---
 
-### 2. Installed and configured all required CKB tools
-The installation of **ckb-debugger** was challenging due to missing dependencies (`protoc`) and PATH issues. Multiple errors occurred before the installation succeeded.
-
----
-
-### 3. Attempted to run tests on Devnet – Failed
+### 2. Attempted to run tests on Devnet – Failed
 Running tests on Devnet caused this error because **ckb-js-vm is NOT deployed on Devnet**.
 
 ---
 
-### 4. Successfully deployed the contract on Testnet
+### 3. Successfully deployed the contract on Testnet
 Since ckb JS VM  is not deployed in Devnet, I deployed the smart contract on **Testnet** instead.
-
-![Testnet Pass](./Week10-Test_Testnet.png)
+![Testnet Data](./Week10-Deployment_Testnet.png)
 
 **Command used:**
 
 offckb deploy --network testnet --target dist/testCCC.bc
-### 5. Executed tests on Testnet
+### 4. Executed tests on Testnet
 
 The test successfully sent a transaction: 
 
 TX Hash: 0x3b7720df175b7b2b21336041a7659d23cd0d5f781d9f2d9b483a6e84ef93704e
 
-![Testnet Data](./Week10-Deployment_Testnet.png)
+
+
+![Testnet Pass](./Week10-Test_Testnet.png)
 
 ![Testnet testPass](./Week10-testnet-pass.png)
-### 6. Transaction detail on CKB explorer
+### 5. Transaction detail on CKB explorer
 -  Data section
 
 The data stored in the output cell 0:
@@ -51,6 +47,8 @@ Displays:
 ##  Important Files
 - [`system-scripts.json`](./system-scripts.json)
 - [`scripts.json`](./scripts.json)
+- [`indexW10.json`](./indexW10.js)
+- [`my-first-contract.devnet.test.js`](./my-first-contract.devnet.test.js)
 
 ## Challenges I Faced
 
