@@ -30,7 +30,7 @@ TX Hash: 0x3b7720df175b7b2b21336041a7659d23cd0d5f781d9f2d9b483a6e84ef93704e
 
 ![Testnet Pass](./Week10-Test_Testnet.png)
 
-![Testnet testPass](./Week10-testnet-pass.png)
+
 ### 5. Transaction detail on CKB explorer
 -  Data section
 
