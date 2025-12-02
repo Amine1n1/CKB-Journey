@@ -1,0 +1,37 @@
+{
+  "devnet": {
+    "my-first-contract.bc": {
+      "codeHash": "0x9fa342d1577a8db2790d6b49eb8833c7d5e79ac57c1af82a5ccff0c3e42c2a72",
+      "hashType": "data1",
+      "cellDeps": [
+        {
+          "cellDep": {
+            "outPoint": {
+              "txHash": "0xc59ac6aa7f006892e98c4e09b070681e7dfb3465797282068adcb7840010ad1f",
+              "index": 0
+            },
+            "depType": "code"
+          }
+        }
+      ]
+    }
+  },
+  "testnet": {
+    "my-first-contract.bc": {
+      "codeHash": "0x9fa342d1577a8db2790d6b49eb8833c7d5e79ac57c1af82a5ccff0c3e42c2a72",
+      "hashType": "data1",
+      "cellDeps": [
+        {
+          "cellDep": {
+            "outPoint": {
+              "txHash": "0x4dd946c04e9f48c00e32263d9d475f04efa13fc4fd70b386adf1bde4bdd6f390",
+              "index": 0
+            },
+            "depType": "code"
+          }
+        }
+      ]
+    }
+  },
+  "mainnet": {}
+}
