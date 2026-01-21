@@ -19,7 +19,7 @@
 - [`index.js`](./Week12-index.js)
 - [`my-first-contract.mock.test.js`](./Week12-counter.mock.test.js)
 - [`index2.js`](./Week12-sendTx.cjs)
-- [`counter.mock.test.js`](./Week12-counter.devnet.test .js)
+- [`counter.mock.test.js`](./Week12-counter.devnet.test.js)
 
 
 # Results
