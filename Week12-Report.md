@@ -16,21 +16,21 @@
 - How to identify and debug wallet connector integration issues.
 
 # Important Files
-- [`index.js`](./index.js)
-- [`my-first-contract.mock.test.js`](./my-first-contract.mock.test.js)
-- [`index2.js`](./index2.js)
-- [`counter.mock.test.js`](./counter.mock.test.js)
-- [`sendTx.cjs`](./sendTx.cjs)
+- [`index.js`](./Week12-index.js)
+- [`my-first-contract.mock.test.js`](./Week12-counter.mock.test.js)
+- [`index2.js`](./Week12-sendTx.cjs)
+- [`counter.mock.test.js`](./Week12-counter.devnet.test .js)
+
 
 # Results
-![Building](./W09-BuildContract.png)
+![Devnet_Test](./Week12-Counter_Devnet_Test.png)
 
-![Deployment](./W09-DeployContract.png)
+![_Mock_Test](./Week12-Counter_Mock_Test.png)
 
-Tests ran successfully:  
-![TestResults](./W09-TestContract.png)
+  
+![Counter_Cell](./Week12-Genesis_Counter_Cell.png)
 
-![TestResults](./W09-InkrementInputTest.png)
+
 
 # Goals for Next Week
 - Use **CCC wallet connector** instead of **JoyID wallet connector**.
