@@ -9,33 +9,55 @@
 - If the user wants to reset the counter, they can click again on "Create Genesis Counter Cell", which reinitializes the counter.
 
 # Important Files
+
 - [`W13-App.jsx`](./W13-App.jsx)
+  
 - [`W13-index.js`](./W13-index.js)
+  
 - [`W13-main.jsx`](./W13-main.jsx)
+  
 - [`W13-SendCKB.jsx`](./W13-SendCKB.jsx)
+
 - [`W13-TxState.jsx`](./W13-TxState.jsx)
+  
 - [`W13-Outpoint.jsx`](./W13-Outpoint.jsx)
+  
 - [`W13-OnchainCounter.jsx`](./W13-OnchainCounter.jsx)
-- [`W13-CreateGenesisCell.jsx`](./W13-CreateGenesisCell.jsx
+  
+- [`W13-CreateGenesisCell.jsx`](./W13-CreateGenesisCell.jsx)
 
 
 # Results
-![Cenesis__Cell_Counter_0](./W13-Cenesis__Cell_Counter_0.png)
-
-![Counter Cell increment](./W13-Counter_Cell_increment.png)
+![Frontend](./W13-Frontend.png)
 
 ![Counter Genesis Cell](./W13-Counter_Genesis_Cell.png)
 
+![after_Creating_Genesis_Cell_Frontend](./W13-after_Creating_Genesis_Cell_Frontend.png)
+
+![Genesis_Cell_Tx](./W13-Genesis_Cell_Tx.png)
+
+![Cenesis__Cell_Counter_0](./W13-Cenesis__Cell_Counter_0.png)
+
+![W13-First_Tx](./W13-First_Tx.png)
+
 ![First Tx Details](./W13-First_Tx_Details.png)
 
-![Frontend](./W13-Frontend.png)
+![Counter Cell increment](./W13-Counter_Cell_increment.png)
 
 ![Frontend_show_Tx_Counter](./W13-Frontend_show_Tx_Counter.png)
 
 
-![Genesis_Cell_Tx](./W13-Genesis_Cell_Tx.png)
+# Goals for Next Week
+- Integrate the on-chain counter into a decentralized application (dApp).
+- Improve and refine the frontend (UI/UX, responsiveness, and user experience).
 
-![after_Creating_Genesis_Cell_Frontend](./W13-after_Creating_Genesis_Cell_Frontend.png)
+
+
+
+
+
+
+
 
 ![First_Tx](./W13-First_Tx.png)
 
