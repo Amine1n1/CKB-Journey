@@ -17,6 +17,10 @@
 
 # Results
 
+![CKB-Binary_Update_Checker](./Week14_CKB-Binary_Update_Checker.png)
+![Node_Logs_Error_Filter](./Week14_Node_Logs_Error_Filter.png)
+![Node_Logs_Warning_Filter](./Week14_Node_Logs_Warning_Filter.png)
 
 
 # Goals for Next Week
+- Create a new section that supports viewing and editing the ckb.toml configuration file.
